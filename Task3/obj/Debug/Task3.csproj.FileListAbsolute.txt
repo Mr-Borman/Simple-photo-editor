@@ -1,0 +1,10 @@
+C:\Users\Данил\source\repos\Task3\Task3\bin\Debug\Task3.exe.config
+C:\Users\Данил\source\repos\Task3\Task3\bin\Debug\Task3.exe
+C:\Users\Данил\source\repos\Task3\Task3\bin\Debug\Task3.pdb
+C:\Users\Данил\source\repos\Task3\Task3\obj\Debug\Task3.csproj.AssemblyReference.cache
+C:\Users\Данил\source\repos\Task3\Task3\obj\Debug\Task3.Form1.resources
+C:\Users\Данил\source\repos\Task3\Task3\obj\Debug\Task3.Properties.Resources.resources
+C:\Users\Данил\source\repos\Task3\Task3\obj\Debug\Task3.csproj.GenerateResource.cache
+C:\Users\Данил\source\repos\Task3\Task3\obj\Debug\Task3.csproj.CoreCompileInputs.cache
+C:\Users\Данил\source\repos\Task3\Task3\obj\Debug\Task3.exe
+C:\Users\Данил\source\repos\Task3\Task3\obj\Debug\Task3.pdb
